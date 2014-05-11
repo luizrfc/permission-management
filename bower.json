@@ -1,0 +1,26 @@
+{
+  "name": "Permissions Management Service",
+  "version": "0.0.0",
+  "authors": [
+    "Mohammad Umair Khan <mohammad.umair.k@gmail.com>"
+  ],
+  "description": "Service that will allow or disallow routes upon provided permissions",
+  "keywords": [
+    "angularjs",
+    "permission",
+    "service"
+  ],
+  "license": "MIT",
+  "homepage": "http://mukhanblogs.weebly.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "angular": "~1.2.16"
+  }
+}
